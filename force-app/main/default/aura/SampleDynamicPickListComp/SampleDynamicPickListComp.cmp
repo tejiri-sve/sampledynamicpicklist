@@ -1,0 +1,5 @@
+<aura:component implements="flexipage:availableForAllPageTypes,force:appHostable,lightning:isUrlAddressable,force:hasRecordId,force:hasSObjectName" access="global">
+    <aura:attribute name="mainobject" type="String" access="GLOBAL" />
+    <aura:attribute name="object" type="String" access="GLOBAL" />
+    <div>sample Component</div>
+</aura:component>	

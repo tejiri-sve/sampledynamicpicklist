@@ -1,0 +1,4 @@
+<design:component >
+    <design:attribute name="mainobject" label="mainobject" datasource="apex://DynamicObjectPickList" />
+    <design:attribute name="object" label="object" datasource="apex://DynamicObjectPickList" />
+</design:component>
